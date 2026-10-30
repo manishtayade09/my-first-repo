@@ -1,1 +1,2 @@
-# my-first-repo
+# Hello GitHub!
+I learn new skills and technology.
